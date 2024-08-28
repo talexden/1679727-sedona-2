@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Aleksey Titov](https://up.htmlacademy.ru/htmlcss-individual/2/user/1679727).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/id252055).
 
 ---
 
