@@ -2,7 +2,7 @@
 
 * Студент: [Aleksey Titov](https://up.htmlacademy.ru/htmlcss-individual/2/user/1679727).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/id252055).
-
+* Сайт: [Мой проект Седона](https://talexden.github.io/1679727-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
